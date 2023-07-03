@@ -1,0 +1,17 @@
+{
+	"name": "DrillbertSleepIndicator",
+	"namespace": "Raffa",
+	"version_number": "1.0.0",
+	"description": "Adds a Drillbert Sleep warning indicator to the game's UI.",
+	"website_url": "https://",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"incompatibilities": [],
+			"authors": ["Raffaele Picca"],
+			"compatible_mod_loader_version": ["3.0.0"],
+			"compatible_game_version": ["2.6"],
+			"config_defaults": {}
+		}
+	}
+}

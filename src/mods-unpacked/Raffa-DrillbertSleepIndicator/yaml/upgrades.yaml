@@ -1,0 +1,15 @@
+laser:
+  limit: [hostile, primaryweapon]
+  propertyChanges:
+    - laser.dps = 15
+    - laser.dpsmod = 1.0/h
+    - laser.stun = 0.5
+    - laser.variant = 0/h
+    - laser.movespeed = 0.2
+    - laser.movespeedwhilefiring = 0.6
+    - laser.movespeedmod = 1.0/h
+    - laser.firedelay = 0.0/h
+    - laser.aimLine = false/h
+    - laser.hitprojectiles = false/h
+    - laser.bend = 0/h
+
