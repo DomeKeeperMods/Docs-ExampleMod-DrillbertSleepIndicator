@@ -7,7 +7,6 @@ func propertyChanged(property:String, oldValue, newValue):
 	match property:
 		# ONLY LOWERCASE HERE
 		"drillbert.sleeping":
-			print("mod drillbots:", newValue)
 			if newValue == true:
 				$Sleeping.show()
 				$Awake.hide()
