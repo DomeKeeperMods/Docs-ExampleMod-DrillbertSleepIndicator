@@ -6,7 +6,7 @@ const MYMODNAME_LOG = "Raffa-DrillbertSleepIndicator"
 var dir = ""
 var ext_dir = ""
 
-func _init(modLoader = ModLoader):
+func _init():
 	ModLoaderLog.info("Init", MYMODNAME_LOG)
 	dir = ModLoaderMod.get_unpacked_dir() + MYMODNAME_MOD_DIR
 	ext_dir = dir + "extensions/"

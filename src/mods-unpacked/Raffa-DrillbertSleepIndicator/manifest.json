@@ -1,7 +1,7 @@
 {
 	"name": "DrillbertSleepIndicator",
 	"namespace": "Raffa",
-	"version_number": "1.0.0",
+	"version_number": "1.0.1",
 	"description": "Adds a Drillbert Sleep warning indicator to the game's UI.",
 	"website_url": "https://",
 	"dependencies": [],
@@ -10,7 +10,7 @@
 			"incompatibilities": [],
 			"authors": ["Raffaele Picca"],
 			"compatible_mod_loader_version": ["3.0.0"],
-			"compatible_game_version": ["2.6"],
+			"compatible_game_version": ["3.0"],
 			"config_defaults": {}
 		}
 	}
